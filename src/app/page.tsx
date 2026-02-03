@@ -220,7 +220,7 @@ export default function JuicePage() {
         <div className="quote-container">
           <div className="quote-content">
             <blockquote className="myanmar-text">
-              “Picture your favorite neighborhood restaurant... It has overflowing natural light, handmade textile seat cushions, a caramel wood grain throughout, and colorful ornaments dangling from the ceilings. Can you picture yours? Do you feel the warmth and spirit of the place?”
+              “သင်အကြိုက်ဆုံး ရပ်ကွက်ထဲက စားသောက်ဆိုင်လေးကို မြင်ယောင်ကြည့်လိုက်ပါ... အဲ့ဒီမှာ သဘာဝအလင်းရောင်တွေ အပြည့်အဝ ရရှိနေပြီး၊ လက်မှုထည် ထိုင်ခုံလေးတွေ၊ ဆိုင်တစ်ဆိုင်လုံးမှာ သစ်သားညိုရောင် အစင်းကြောင်းလေးတွေနဲ့ မျက်နှာကျက်ကနေ တွဲလောင်းကျနေတဲ့ ရောင်စုံအလှဆင်ပစ္စည်းလေးတွေ ရှိနေပါလိမ့်မယ်။ သင်ရော မြင်ယောင်လို့ရရဲ့လား? အဲ့ဒီနေရာရဲ့ နွေးထွေးမှုနဲ့ ဝိညာဉ် (spirit) ကို သင်ခံစားရလား?”
             </blockquote>
             <div className="quote-footer">
               <span className="quote-author">The Browser Company</span>
@@ -230,8 +230,8 @@ export default function JuicePage() {
         </div>
 
         <p>
-          ဒါရဲ့ ဆန့်ကျင်ဘက်ကတော့ ဆေးရုံ (Hospital) ပါပဲ။ ဒါဟာ functional requirements တွေအတွက်ပဲ optimize လုပ်ထားတဲ့အတွက်
-          အေးစက်တယ်၊ ပိုးသတ်ထားတယ်၊ အရာရာက minimal ဖြစ်ပြီး character နဲ့ individuality မရှိပါဘူး။ တစ်နည်းအားဖြင့် <strong>Soulless</strong> ဖြစ်ပါတယ်။
+          ဒါရဲ့ ဆန့်ကျင်ဘက်ကတော့ ဆေးရုံ (Hospital) ပါပဲ။ ဒါဟာ functional requirements တွေအတွက်ပဲ အကောင်းဆုံးဖြစ်အောင် (optimize) လုပ်ထားတဲ့အတွက်
+          အေးစက်တယ်၊ ပိုးသတ်ထားတယ်၊ အရာရာက ရိုးရှင်းလွန်း (minimal) ပြီး ထူးခြားတဲ့လက္ခဏာ (character) နဲ့ ကိုယ်ပိုင်ဟန် (individuality) မရှိပါဘူး။ တစ်နည်းအားဖြင့် ဝိညာဉ်မဲ့ခြင်း (Soulless) ဖြစ်ပါတယ်။
         </p>
 
         <div className="grid-2">
