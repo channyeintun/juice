@@ -281,7 +281,7 @@ export default function JuicePage() {
         <div className="quote-container">
           <div className="quote-content">
             <blockquote className="myanmar-text">
-              “When I use Apple Notes I feel like a minimalist. When I use Notion I feel like a productivity nerd. When I use Obsidian I feel like an intellectual indie hacker.”
+              “Apple Notes ကို သုံးတဲ့အခါ minimalist တစ်ယောက်လို ခံစားရတယ်။ Notion ကို သုံးတဲ့အခါမှာတော့ productivity nerd တစ်ယောက်လို ခံစားရပြီး၊ Obsidian ကို သုံးတဲ့အခါမှာတော့ intellectual indie hacker တစ်ယောက်လို ခံစားရပါတယ်။”
             </blockquote>
             <div className="quote-footer">
               <span className="quote-author">Valerie Tetu</span>
@@ -291,7 +291,7 @@ export default function JuicePage() {
         </div>
 
         <div className="img-container mb-4">
-          <Image src="/emotionWheelLarge.jpg" alt="Emotion Wheel" width={400} height={400} className="w-full" />
+          <Image src="/emotionWheelLarge.webp" alt="Emotion Wheel" width={400} height={400} className="w-full" />
         </div>
         <p>
           Superhuman email client ရဲ့ designer တွေက <strong>human emotions model</strong> ကို သုံးကြပါတယ်။
