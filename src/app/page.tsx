@@ -252,9 +252,6 @@ export default function JuicePage() {
             ဘာလို့လဲဆိုတော့ ခံစားချက်တွေ (feelings) ဟာ ကျွန်တော်တို့ ဘဝအပေါ်မှာ ဘယ်လောက်အထိ လွှမ်းမိုးမှု ရှိနေသလဲဆိုတာကို လျှော့တွက်ထားကြလို့ပါပဲ။
           </p>
 
-          <div className="img-container clear-both">
-            <Image src="/johnnyCab.webp" alt="Johnny Cab" width={800} height={400} className="w-full" />
-          </div>
 
           <p>
             <strong> Emotion ဟာ လူသားတစ်ယောက် ဖြစ်တည်မှုရဲ့ အဓိက အစိတ်အပိုင်း ဖြစ်ပါတယ်။ </strong>
